@@ -1,0 +1,32 @@
+ul{
+    list-style-type:none; 
+ }
+ li{
+     float:left;
+     margin:20px;
+     font-size:20px;
+ }
+ h1{
+     font-size:30px;
+ }
+ hr{
+     width:100px;
+     height:5px;
+     background-color:black;
+ }
+ p{
+     font-size:20px;
+     width:600px;
+ }
+ #one{
+     font-size:25px;
+ }
+ #VIDEO,#WRITINGS,#WORK,#CONTACT{
+     background: rgb(255,255,255);
+     background: radial-gradient(circle, rgba(255,255,255,0.03405112044817926) 0%, rgba(226,146,230,1) 0%);
+     width:100%;
+ }
+ a{
+     text-decoration:none;
+ }
+ 
